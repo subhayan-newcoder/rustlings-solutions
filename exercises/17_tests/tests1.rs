@@ -20,6 +20,6 @@ mod tests {
         // TODO: Test the function `is_even` with some values.
         assert!(is_even(4));
         assert!(!is_even(5));
-        assert!()
+        assert!(is_even(6));
     }
 }
